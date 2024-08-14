@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I am Raghunandan M S 👋
 
 <!--
 **RGS-AI/RGS-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a modern-day data wizard, seamlessly blending the precision of a Data Scientist with the insightful vision of a Data Analyst. With a knack for uncovering hidden patterns and transforming raw data into compelling stories, I stand at the crossroads of technology and innovation. Whether it's crafting algorithms that predict the future or designing dashboards that make data sing, my expertise isn't just about numbers—it's about making sense of the world, one dataset at a time. I am good at Python, MySQL, Machine Learning and Business Summary.
