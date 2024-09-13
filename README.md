@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **msraghunandan88@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/zesFW](https://shorturl.at/zesFW)]
+- 📄 Know about my experiences [https://shorturl.at/zesFW](https://shorturl.at/zesFW)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
