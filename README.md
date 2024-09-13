@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **msraghunandan88@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lCkH86r5xDz8xOH-HBTqTfXabl_F8Gtl/view?usp=share_link](https://drive.google.com/file/d/1lCkH86r5xDz8xOH-HBTqTfXabl_F8Gtl/view?usp=share_link)
+- 📄 Know about my experiences [https://shorturl.at/zesFW](https://shorturl.at/zesFW)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
