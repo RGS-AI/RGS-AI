@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/raghunandanms**
 
-- 📄 Know about my experiences [https://shorturl.at/zesFW](https://shorturl.at/zesFW)
+- 📄 Know about my experiences [LinkedIN](www.linkedin.com/in/raghunandanms)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
