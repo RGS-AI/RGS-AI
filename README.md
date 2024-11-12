@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=res-ai&label=Profile%20views&color=0e75b6&style=flat" alt="res-ai" /> </p>
 
-- 🔭 I’m currently working on **Face Age Detection using DLib**
+- 🔭 I’m currently working on **GenAI for Mechanical Design**
 
 - 🌱 I’m currently learning **CNN GAN CV**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python EDA Visualization Excel PowerBI MySQL**
 
-- 📫 How to reach me **msraghunandan88@gmail.com**
+- 📫 How to reach me **www.linkedin.com/in/raghunandanms**
 
 - 📄 Know about my experiences [https://shorturl.at/zesFW](https://shorturl.at/zesFW)
 
