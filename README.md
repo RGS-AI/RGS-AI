@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **GenAI for Mechanical Design**
 
-- 🌱 I’m currently learning **CNN GAN CV**
+- 🌱 I’m currently learning **GAN**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/rms](https://www.datascienceportfol.io/rms)
 
