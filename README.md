@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://mlvanguard.blogspot.com](https://mlvanguard.blogspot.com)
 
-- 💬 Ask me about **Python EDA Visualization Excel PowerBI MySQL**
+- 💬 Ask me about **Python EDA Visualization ML DL GenAI Excel PowerBI MySQL**
 
 - 📫 How to reach me **www.linkedin.com/in/raghunandanms**
 
