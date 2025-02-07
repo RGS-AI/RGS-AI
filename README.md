@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Raghunandan M S</h1>
-<h3 align="center">A Data Science/Analyst Enthusiast</h3>
+<h3 align="center">A Data Science/Analyst and Trainer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=res-ai&label=Profile%20views&color=0e75b6&style=flat" alt="res-ai" /> </p>
 
-- 🔭 I’m currently working on **GenAI for Mechanical Design**
+- 🔭 I’m currently working on **GenAI for Mechanical Product Design**
 
-- 🌱 I’m currently learning **GAN**
+- 🌱 I’m currently learning **Implementing Cyber Security Models**
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/rms](https://www.datascienceportfol.io/rms)
 
