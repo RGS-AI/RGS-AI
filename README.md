@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=res-ai&label=Profile%20views&color=0e75b6&style=flat" alt="res-ai" /> </p>
 
-- 🔭 I’m currently working on **GenAI for Mechanical Product Design**
+- 🔭 I’m currently working on **AI AGENTS for Mech/C Tasks**
 
 - 🌱 I’m currently learning **Implementing Cyber Security Models**
 
